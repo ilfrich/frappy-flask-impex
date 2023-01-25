@@ -16,7 +16,7 @@ setup(name="frappyflaskimpex",
       ],
       install_requires=[
             "flask",
-            "pbu",
+            "pbu>=1.0.0",
       ],
       tests_require=[
           "pytest",
